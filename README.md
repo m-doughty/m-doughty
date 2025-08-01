@@ -1,6 +1,4 @@
-# Matt Doughty
-
-## About Me
+# About Me
 
 Full-stack polyglot software engineer with 13 years’ experience delivering fault-tolerant, concurrent & performant systems across a range of industries incl. finance, insurance, healthcare and government systems.
 

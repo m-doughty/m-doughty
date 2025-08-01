@@ -11,7 +11,7 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 - **Platform**: Azure, Kubernetes, Docker, Terraform
 - **Tooling**: MacBook Pro (M4 Max), Neovim, Avante
 - **LLMs**: ChatGPT, ERNIE 300B, Jamba Large
-- **Philosophies**: Minimalism, KISS, Safety
+- **Philosophies**: Minimalism, KISS, Security-by-default, Fail-fast
 
 ## 🧪 Featured Projects
 

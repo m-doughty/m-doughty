@@ -9,7 +9,7 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 - **Low-Level Programming**: C, C++
 - **High-Level Programming**: Raku, Elixir, Common Lisp, Clojure, Elm
 - **Platform**: Azure, Kubernetes, Docker, Terraform
-- **Tooling**: MacBook Pro (M4 Max), Neovim, Avante
+- **Tooling**: MacBook Pro (M4 Max), Neovim, Avante, Clang, Koboldcpp, vLLM
 - **LLMs**: ChatGPT, ERNIE 300B, Jamba Large
 - **Philosophies**: Minimalism, KISS, Security-by-default, Fail-fast
 
@@ -25,8 +25,8 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 
 ## 🌍 Find Me
 
-- [Apogee](https://apogee.guru): I provide services through my company, in highly regulated industries.
+- [Apogee](https://apogee.guru): My consultancy, providing secure &amp; performant software to regulated industries since 2022.
 - [Nurture the Vibe](https://nurturethevibe.com): Blog about embracing AI-assisted development without compromising on security, stability or quality.
-- [LinkedIn](https://www.linkedin.com/in/matt-doughty/): I write regularly about software development &amp; AI.
-- [X/Twitter](https://x.com/NurtureTheVibe): More casual posting about software practices &amp; open source.
-- `apogee_ntv` on Libera.
+- [LinkedIn](https://www.linkedin.com/in/matt-doughty/): Posts on AI, software engineering, and system design.
+- [X/Twitter](https://x.com/NurtureTheVibe): Casual takes on software practices, open source, and AI.
+- IRC: `apogee_ntv` on Libera.

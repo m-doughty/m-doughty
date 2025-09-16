@@ -27,6 +27,8 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-doughty&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-doughty&layout=donut)
+
 ## 🌍 Find Me
 
 - [Apogee](https://apogee.guru): My consultancy, providing secure &amp; performant software to regulated industries since 2022.

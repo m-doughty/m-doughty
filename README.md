@@ -25,8 +25,12 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 
 ## Stats
 
+<a href="">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m-doughty&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</a>
+<a href="">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-doughty&layout=donut&theme=transparent&card_width=320" alt="Top Langs" />
+</a>
 
 ## 🌍 Find Me
 

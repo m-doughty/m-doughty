@@ -23,6 +23,10 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 | 🎨 Image::PNG::Portable | Raku | Read &amp; write PNG images &amp; tExt metadata in pure Raku. | [Raku.Land](https://raku.land/zef:apogee/Image::PNG::Portable) &middot; [Github](https://github.com/m-doughty/Image-PNG-Portable) |
 | ⚙️ Tokenizers-FFI | Rust/C | C FFI bindings for Huggingface Tokenizers. | [Github](https://github.com/m-doughty/tokenizers-ffi) |
 
+## Stats
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-doughty&show_icons=true&theme=transparent)
+
 ## 🌍 Find Me
 
 - [Apogee](https://apogee.guru): My consultancy, providing secure &amp; performant software to regulated industries since 2022.

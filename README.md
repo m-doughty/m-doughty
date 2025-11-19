@@ -38,5 +38,5 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 - [LinkedIn](https://www.linkedin.com/in/matt-doughty/): Posts on AI, software engineering, and system design.
 - [X/Twitter](https://x.com/NurtureTheVibe): Casual takes on software practices, open source, and AI.
 - [Raku Land](https://raku.land/zef:apogee): Raku Land library repository.
-- [Sponsor Me](https://github.com/sponsors/m-doughty): Sponsor my open source work to make LLMs accessible to all.
+- [Sponsor Me](https://github.com/sponsors/m-doughty): Sponsor my open source work.
 - IRC: `apogee_ntv` on Libera.

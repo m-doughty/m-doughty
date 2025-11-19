@@ -6,11 +6,11 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 
 ## 🛠️ Preferred Technologies
 
-- **Low-Level Programming**: C, C++
+- **Low-Level Programming**: C, C++, AARCH64 ASM
 - **High-Level Programming**: Raku, Elixir, Common Lisp, Clojure, Elm
 - **Platform**: Azure, Kubernetes, Docker, Terraform
 - **Tooling**: MacBook Pro (M4 Max), Neovim, Avante, Clang, Koboldcpp, vLLM
-- **LLMs**: ChatGPT, ERNIE 300B, Jamba Large
+- **LLMs**: Grok 4 Heavy, GLM Large, Qwen 235B
 - **Philosophies**: Minimalism, KISS, Security-by-default, Fail-fast
 
 ## 🧪 Featured Projects

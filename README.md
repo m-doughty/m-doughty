@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Full-stack polyglot software engineer with 13 years’ experience delivering fault-tolerant, concurrent & performant systems across a range of industries incl. finance, insurance, healthcare and government systems.
+Full-stack polyglot software engineer with 14 years’ experience delivering fault-tolerant, concurrent & performant systems across a range of industries incl. finance, insurance, healthcare and government systems.
 
 Working with AI (cloud or local) to deliver at pace without compromising on security, stability or quality. Experienced with best open source & proprietary software practices, from the front-end (web, GUI or TUI) all the way through to platform, IaC & databases.
 
@@ -17,11 +17,11 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 
 | Name | Language | Description | Link(s) |
 | ---- | -------- | ----------- | ------- |
-| 💬 LLM::Chat | Raku | Asynchronous inferencing library for local & cloud LLMs; handles context shifting, token counting & templating. | [Raku.Land](https://raku.land/zef:apogee/LLM::Chat) &middot; [Github](https://github.com/m-doughty/LLM_Chat) |
-| 🧍 LLM::Character | Raku | Implementation of Character Card v3 for managing custom prompts (characters) & lorebooks for context-based prompting. | [Raku.Land](https://raku.land/zef:apogee/LLM::Character) &middot; [Github](https://github.com/m-doughty/LLM-Character) |
-| 🧮 Tokenizers | Raku | Library for accessing Huggingface Tokenizers via C FFI; provides low level & high level interfaces. | [Raku.Land](https://raku.land/zef:apogee/Tokenizers) &middot; [Github](https://github.com/m-doughty/Raku-Tokenizers) |
-| 🎨 Image::PNG::Portable | Raku | Read &amp; write PNG images &amp; tExt metadata in pure Raku. | [Raku.Land](https://raku.land/zef:apogee/Image::PNG::Portable) &middot; [Github](https://github.com/m-doughty/Image-PNG-Portable) |
-| ⚙️ Tokenizers-FFI | Rust/C | C FFI bindings for Huggingface Tokenizers. | [Github](https://github.com/m-doughty/tokenizers-ffi) |
+| 🖥️ Selkie | Raku | Retained-mode TUI framework built on notcurses. Redux-inspired store with events/effects/handlers, composable widget tree, reactive subscriptions, theming, focus management, modal system. | [Raku.Land](https://raku.land/zef:apogee/Selkie) &middot; [Github](https://github.com/m-doughty/Selkie) |
+| 🏷️ Roaring::Tags | Raku | High-performance tag engine backed by compressed roaring bitmaps. Boolean tag queries, bulk operations, serialization. Built for datasets with millions of tagged entities. | [Raku.Land](https://raku.land/zef:apogee/Roaring::Tags) &middot; [Github](https://github.com/m-doughty/Roaring-Tags) |
+| 🔗 Notcurses::Native | Raku/C | Full NativeCall bindings for notcurses. Self-contained prebuilt binaries for 5 platforms with automatic SHA-verified download, source-compile fallback, and glibc version detection. | [Raku.Land](https://raku.land/zef:apogee/Notcurses::Native) &middot; [Github](https://github.com/m-doughty/Notcurses-Native) |
+| 🧍 LLM::Character | Raku | Character Card v3 implementation for managing personas &amp; lorebooks for context-based LLM prompting. | [Raku.Land](https://raku.land/zef:apogee/LLM::Character) &middot; [Github](https://github.com/m-doughty/LLM-Character) |
+| 🎨 Template::Jinja2 | Raku | Jinja2 template engine for Raku. Filters, inheritance, macros, conditional blocks. Powers LLM chat template rendering. | [Raku.Land](https://raku.land/zef:apogee/Template::Jinja2) &middot; [Github](https://github.com/m-doughty/Template-Jinja2) |
 
 ## Stats
 
@@ -36,7 +36,6 @@ Working with AI (cloud or local) to deliver at pace without compromising on secu
 
 - [Apogee](https://apogee.guru): My consultancy, providing secure &amp; performant software to regulated industries since 2022.
 - [LinkedIn](https://www.linkedin.com/in/matt-doughty/): Posts on AI, software engineering, and system design.
-- [X/Twitter](https://x.com/NurtureTheVibe): Casual takes on software practices, open source, and AI.
 - [Raku Land](https://raku.land/zef:apogee): Raku Land library repository.
 - [Sponsor Me](https://github.com/sponsors/m-doughty): Sponsor my open source work.
 - IRC: `apogee_ntv` on Libera.
